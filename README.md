@@ -3,7 +3,7 @@
 
 # <h1 align=center>**`Machine Learning Operations (MLOps)`**</h1>
 
-<p align=center><img src="img/portada.jpg"><p>
+<p align=center><img src="portada.jpg"><p>
 
 ## **Introducción:**
 Este proyecto se centra en el desarrollo de una API que emplea un modelo de recomendación para Steam, una plataforma de videojuegos de alcance internacional, fundamentado en técnicas de Machine Learning. El propósito principal consiste en construir un sistema de recomendación de videojuegos dirigido a usuarios de la plataforma. La API proporciona una interfaz intuitiva que facilita a los usuarios la obtención de información para el sistema de recomendación, así como datos relevantes sobre géneros y fechas específicas. Este enfoque busca mejorar la experiencia de los usuarios al ofrecer sugerencias personalizadas y acceso a detalles valiosos relacionados con sus preferencias de juego.
