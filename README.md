@@ -43,7 +43,9 @@ En esta etapa, hemos desarrollado una API mediante el uso del módulo FastAPI en
    - Ejemplo de entrada: 2014
 
 Estas funciones han sido diseñadas para ofrecer a los usuarios de la API información específica y relevante sobre el comportamiento de los juegos, facilitando así la toma de decisiones informadas y la exploración de datos detallados en la plataforma Steam.
+
 Luego realizamos el deployement de esta API utilizando Render.
+
 Recuerda por las dudas descargar la carpeta FastApi incluida en la rama Master.
 
 ### 3. EDA
