@@ -41,9 +41,11 @@ En esta etapa, hemos desarrollado una API mediante el uso del módulo FastAPI en
 5. **sentiment_analysis(año: int):**
    - Según el año de lanzamiento, proporciona una lista con la cantidad de registros de reseñas de usuarios categorizados con un análisis de sentimiento.
    - Ejemplo de entrada: 2014
+
 Estas funciones han sido diseñadas para ofrecer a los usuarios de la API información específica y relevante sobre el comportamiento de los juegos, facilitando así la toma de decisiones informadas y la exploración de datos detallados en la plataforma Steam.
 Luego realizamos el deployement de esta API utilizando Render.
 Recuerda por las dudas descargar la carpeta FastApi incluida en la rama Master.
+
 ### 3. EDA
 En esta etapa, llevamos a cabo un proceso de EDA (Exploratory Data Analysis o Análisis Exploratorio de Datos), donde se exploraron y analizaron detalladamente los datos con el objetivo de obtener insights valiosos. Durante este proceso, nos enfocamos en identificar patrones, tendencias y relaciones dentro de los datos. El propósito fundamental fue adquirir un entendimiento profundo del conjunto de datos, buscando pistas significativas que pudieran orientar la creación de nuestro modelo de Machine Learning.
 ### 4. Modelo de Machine Learning
