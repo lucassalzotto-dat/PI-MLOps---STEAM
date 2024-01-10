@@ -66,6 +66,6 @@ Si, en cambio, el sistema de recomendación es user-item, implementamos la sigui
 Estas funciones permiten que el modelo genere recomendaciones significativas y específicas, aprovechando la similitud entre juegos o la información de comportamiento de usuarios, según el enfoque adoptado. Este sistema ofrece una experiencia de recomendación más personalizada y adaptada a las preferencias individuales de los usuarios en la plataforma de Steam.
 ## **Más:**
 - [Deploy de la API en Render](https://deploy-api-steam.onrender.com)
-- [Video explicando el proyecto]()
+- [Video explicando el proyecto](https://www.youtube.com/watch?v=yNzYl2HeNfU)
 ## **LICENCIA:**
 Lucas Salzotto
