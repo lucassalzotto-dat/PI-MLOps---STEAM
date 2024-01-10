@@ -56,10 +56,13 @@ Si el enfoque es un sistema de recomendación item-item, hemos desarrollado la s
 - **recomendacion_juego(id de producto):**
   - Al ingresar el id de producto ('id'), esta función devuelve una lista con los 5 juegos recomendados más similares al juego ingresado.
   - Ejemplo de uso: 70
+  - 
 Si, en cambio, el sistema de recomendación es user-item, implementamos la siguiente función:
+
 - **recomendacion_usuario(id de usuario):**
   - Al ingresar el id de un usuario ('user_id'), esta función proporciona una lista con los 5 juegos recomendados para ese usuario en particular.
   - Ejemplo de uso: 76561198030567998
+  - 
 Estas funciones permiten que el modelo genere recomendaciones significativas y específicas, aprovechando la similitud entre juegos o la información de comportamiento de usuarios, según el enfoque adoptado. Este sistema ofrece una experiencia de recomendación más personalizada y adaptada a las preferencias individuales de los usuarios en la plataforma de Steam.
 ## **Más:**
 - [Deploy de la API en Render](https://deploy-api-steam.onrender.com)
